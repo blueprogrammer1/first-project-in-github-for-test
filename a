@@ -40,6 +40,7 @@ for y in range(p):
                    #gg=input()
 if ((p-k)!=0):
   print('sod',sod/(p-k))
+  #jjjjj
 else:
   print('sod',0)
 print('tedad begayi',k)
